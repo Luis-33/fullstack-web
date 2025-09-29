@@ -1,0 +1,16 @@
+Para HTML:
+    class autocomplete for HTML
+    HTML boilerplate
+    HTML snippets
+Para CSS:
+    Intellisense for css clss name in HTML
+    live server
+    Live Server (Five Server)
+    vs color picker
+Para JS:
+    Detecta errores de sintaxis: Eslint
+    Atajos, fragmentos de código: Javascript (es6) code snippets
+    Depurador: JavaScript Debugger (Nighyly)
+Opcionales: 
+    Atajos, fragmentos de código: JavaScript Snippet Pack
+    JavaScript standardjs syled
